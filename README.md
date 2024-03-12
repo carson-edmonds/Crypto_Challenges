@@ -4,4 +4,6 @@ Repo for crypto challenges. In process of completing Crypto Pals Set 1. Instruct
 
 Set 1 Challenge 1 solution found in hex_converter.py
 
-Set 1 Challenge 2 solution found in CP1.2.py
+Set 1 Challenge 2 solution found in CP1.2_XOR.py
+
+Set 1 Challenge 3 solution ongoing. Work found in CP1.3_XOR_cipher.py
